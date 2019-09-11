@@ -1,1 +1,2 @@
-ini hanya sebuah latihan collab git
+ini hanya sebuah latihan collab git !!!
+
